@@ -398,7 +398,7 @@ bool CHandleData::drawTab2()
 	}
 	std::sort(drawRooms, drawRooms + c);
 	int countButtonID = 9001;
-	for(int i = 0 ; i <= c ; i++, countButtonID++)
+	for(int i = 0 ; i < c ; i++, countButtonID++)
 	{
 		Button = new CButton();
 		DWORD dwStyle = WS_CHILD | WS_VISIBLE | BS_PUSHBUTTON;
