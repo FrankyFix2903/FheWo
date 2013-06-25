@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg">
+    <Position X="10.75" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_enum_0005_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FheWoDlg.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FheWoDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDevice">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="CObject" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="7" Y="0.5" />
+        <Point X="7" Y="0.26" />
+        <Point X="2.875" Y="0.26" />
+        <Point X="2.875" Y="0.5" />
+      </Path>
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.214" Y="0.06" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAIhIAAIAAAACIAAEAAQAAAEAAiQAAIACMAAggA=</HashCode>
+      <FileName>Device.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFheWoApp">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>FheWo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFheWoDlg">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CFheWoDlg::__unnamed_enum_0006_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FheWoDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EACQAAEAAAAAAAAIABQAIAAAAAAAABSAAgAAAAAQAAA=</HashCode>
+      <FileName>FheWoDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHandleData">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADQABBg4AAAAAAkAAKgAAEAAAJAlIACAgAAAgIAAQA=</HashCode>
+      <FileName>HandleData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSettingsDlg">
+    <Position X="13.25" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CSettingsDlg::__unnamed_enum_01fb_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SettingsDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAIABAAAAAAAAAAAACAAAAECAAAAAA=</HashCode>
+      <FileName>SettingsDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTab1">
+    <Position X="12.75" Y="6.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CTab1::__unnamed_enum_020b_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Tab1.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AACAAAAEAAAAAAAAEBAAAAAAAABAQAAEAAAAAAgAAAA=</HashCode>
+      <FileName>Tab1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTab2">
+    <Position X="8" Y="6.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CTab2::__unnamed_enum_020d_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Tab2.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AACAAAAEAAAAAAAAABAAAAAACABAQAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Tab2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CObject">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAQAQAAAAACAAAgQAAADAAAAAAEUAgAEAAAAA=</HashCode>
+      <FileName>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\afx.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWinApp" Collapsed="true">
+    <Position X="10.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>57Zg4NIZMRIwEDOIuKSX1AplESlJxcwkSSNipUAHtHc=</HashCode>
+      <FileName>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialogEx" Collapsed="true">
+    <Position X="10.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAAACAAEAAAiAACCCBEBQAAAAAAEAIACCgQAAAAI=</HashCode>
+      <FileName>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\afxdialogex.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
